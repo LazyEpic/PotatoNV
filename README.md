@@ -169,6 +169,7 @@ Huawei P8 | `GRA` | Kirin 935
 Honor 8 Pro / V9 | `DUK` | Kirin 950
 Honor 8 | `FRD` | Kirin 950
 Huawei P9 Standart | `EVA` | Kirin 950
+Huawei MediaPad M3 | `BTV` | Kirin 950
 Honor 9 | `STF` | Kirin 960
 Huawei Mate 9 Pro | `LON` | Kirin 960
 Huawei Mate 9 | `MHA` | Kirin 960
